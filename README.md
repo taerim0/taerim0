@@ -1,1 +1,2 @@
-![image](https://github.com/taerim0/taerim0/assets/127942413/688ad432-77e2-4eeb-b406-a750d3c20110)
+![holy-moly](https://github.com/taerim0/taerim0/assets/127942413/92fa3873-5516-4f31-9185-b8e01b8f5af2)
+
