@@ -1,12 +1,23 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=taerim0&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=rim&fontSize=50&fontAlign=10)
+  <br>
+  <br>
 
   <a href="https://github.com/taerim0"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=taerim0&show_icons=true&include_all_commits=true&theme=onedark&hide_border=false"/></a>
   <a href="https://github.com/taerim0"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taerim0&layout=compact&theme=onedark&hide_border=false" /></a> 
 
+  <br>
+  <br>
 </div>
+<br>
+
+---------
+
+<br>
+<br>
+<br>
 
 ---------
 
