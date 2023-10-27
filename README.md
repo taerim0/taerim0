@@ -15,8 +15,8 @@ taerim
 
 <div align="center">
   
-  <a href="https://github.com/taerim0"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=taerim0&show_icons=true&include_all_commits=true&theme=onedark&hide_border=false"/></a>
-  <a href="https://github.com/taerim0"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taerim0&layout=compact&theme=onedark&hide_border=false" /></a> 
+  <a href="https://github.com/taerim0"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api?username=taerim0&show_icons=true&include_all_commits=true&theme=onedark&hide_border=false"/></a>
+  <a href="https://github.com/taerim0"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taerim0&layout=compact&theme=onedark&hide_border=false" /></a> 
 
 </div>
 <br>
@@ -40,12 +40,10 @@ taerim
 
 <div align="left">
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=taerim0)](https://solved.ac/taerim0)
+  <a href=""><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=taerim0"/></a>
 
 </div>
   
-
-- [solve.ac](https://solved.ac/profile/taerim0)
 - [PS repository](https://github.com/taerim0/baekjoon)
 
 <br>
