@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=rim&fontSize=50&fontAlign=10)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=허태림&fontSize=50&fontAlign=20)
 </div>
 
 taerim
@@ -35,37 +35,34 @@ taerim
 </div>
 <br>
 
+
 ---------
 
 <br>
-<br>
-<br>
-
----------
 
 ## Algorithm
 
-<div align="center">
-  
-  <div align="left">
+<div align="left">
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=taerim0)](https://solved.ac/taerim0)
 
   </div>
-
-</div>
   
-
 
 - [solve.ac](https://solved.ac/profile/taerim0)
 - [PS repository](https://github.com/taerim0/baekjoon)
 
-
+<br>
 
 ---------
+<br>
+
 ## WebDev
+<br>
 
 ---------
+<br>
+
 ## Timeline
 
 #### ~ 2022
