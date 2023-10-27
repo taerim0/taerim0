@@ -3,8 +3,11 @@
 ---------
 ## Algorithm
 <div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=taerim0)(https://solved.ac/taerim0)]
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+
 </div>
+
 - [solve.ac](https://solved.ac/profile/taerim0)
 - [PS repository](https://github.com/taerim0/baekjoon)
 
