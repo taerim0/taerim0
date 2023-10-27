@@ -9,9 +9,16 @@
   <a href="https://github.com/taerim0"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taerim0&layout=compact&theme=onedark&hide_border=false" /></a> 
 
   <br>
+</div>
 
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+-------
+
+<div align="center">
+  
+  💻 tech stack 💻
+
+  <a><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
   
   <br>
 </div>
