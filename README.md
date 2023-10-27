@@ -1,15 +1,32 @@
-![holy-moly](https://github.com/taerim0/taerim0/assets/127942413/92fa3873-5516-4f31-9185-b8e01b8f5af2)
 
----------
-## Algorithm
 <div align="center">
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=taerim0)](https://solved.ac/taerim0)
+
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=taerim0&fontSize=90)
+
+  <a href="https://github.com/taerim0"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=taerim0&show_icons=true&include_all_commits=true&theme=onedark&hide_border=false"/></a>
+  <a href="https://github.com/taerim0"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taerim0&layout=compact&theme=onedark&hide_border=false" /></a> 
 
 </div>
 
+---------
+
+## Algorithm
+
+<div align="center">
+  
+  <div align="left">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=taerim0)](https://solved.ac/taerim0)
+
+  </div>
+
+</div>
+  
+
+
 - [solve.ac](https://solved.ac/profile/taerim0)
 - [PS repository](https://github.com/taerim0/baekjoon)
+
 
 
 ---------
