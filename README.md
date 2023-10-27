@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=허태림&fontSize=50&fontAlign=20)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=허태림&fontSize=50&fontAlign=20)
 </div>
 
 taerim
