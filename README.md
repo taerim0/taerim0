@@ -2,6 +2,7 @@
 
 ---------
 ## Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=taerim0)](https://solved.ac/taerim0)
 - [solve.ac](https://solved.ac/profile/taerim0)
 - [PS repository](https://github.com/taerim0/baekjoon)
 
