@@ -10,6 +10,8 @@ taerim
 
 > Ajou University, department of software and computer engineering
 
+> 2004. 08. 27. Seogwipo-si, Jeju-do
+
 <br>
 
 
