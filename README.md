@@ -1,17 +1,9 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=허태림&fontSize=50&fontAlign=80)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=RIM&fontSize=50&fontAlign=80)
 
 </div>
-  
-taerim
-====
-
-> Ajou University, department of software and computer engineering
-
-<br>
-
 
 <div align="center">
   
