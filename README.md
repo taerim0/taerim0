@@ -7,6 +7,7 @@
 
 <br>
 
+> Ajou University, department of software and computer engineering
 ---
 #### Interested in infra
 
