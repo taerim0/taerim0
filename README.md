@@ -24,3 +24,7 @@
   <a href="https://solved.ac/profile/taerim0"><img style="width:748px" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=taerim0"/></a>
 
 </div>
+
+```
+인프라 백엔드 좋아하고 프론트도 가끔 해요
+```
