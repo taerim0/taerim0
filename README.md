@@ -7,7 +7,7 @@
 
 <br>
 
-# Ajou University, department of software and computer engineering
+<h2 align="center">Ajou University, department of software and computer engineering</h2>
 
 <br>
 
