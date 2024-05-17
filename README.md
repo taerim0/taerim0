@@ -27,9 +27,9 @@
 
 <br>
 
-```jsx
+```
 😊 클라이밍이랑 인프라 백엔드 좋아해요
-=> I love climbing, and infra, backend (sometimes i do frontend)
+=> i love climbing, and infra, backend (sometimes i do frontend)
 ```
 
 ```
