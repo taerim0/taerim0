@@ -21,7 +21,7 @@
 </div>
 <div align="center">
   
-  <a href="https://solved.ac/profile/taerim0"><img style="width:748px" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=taerim0"/></a>
+  <a href="https://solved.ac/profile/taerim0"><img style="width:750px" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=taerim0"/></a>
 
 </div>
 
