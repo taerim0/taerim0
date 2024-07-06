@@ -26,13 +26,3 @@
 </div>
 
 <br>
-
-```
-😊 클라이밍이랑 백엔드 좋아해요
-=> i love climbing, backend (sometimes i do frontend)
-```
-
-```
-🛜 네트워크랑 인프라에 관심 있어요
-=> also im interested in network and infra
-```
