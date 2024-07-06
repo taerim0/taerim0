@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/taerim0"><img align="center" style="width:240px" src="https://github.com/taerim0/taerim0/assets/127942413/9921edf4-348d-4784-996c-a0d5615701b8" /></a> 
+  <a href="https://github.com/taerim0"><img align="center" style="width:208px" src="https://github.com/taerim0/taerim0/assets/127942413/dfdee418-5f16-459a-88ea-a972dd79bcde" /></a> 
   <a href="https://github.com/taerim0"><img align="center" style="width:508px" src="https://github-readme-stats.vercel.app/api?username=taerim0&show_icons=true&theme=onedark&hide_border=false" /></a>
 
 </div>
