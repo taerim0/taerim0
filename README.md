@@ -12,7 +12,7 @@
   
 </div>
 <div>
-  <table border="1">
+  <table>
     <tr>
       <td style="width:25%;">
         <a href="https://github.com/taerim0"><img style="width:100px" src="https://github.com/taerim0/taerim0/assets/127942413/dfdee418-5f16-459a-88ea-a972dd79bcde" /></a>
