@@ -21,8 +21,8 @@
         <a href="https://velog.io/@taerim0"><img src="https://img.shields.io/badge/taerim0%20Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@taerim0"/></a><br>
         <a href="https://www.acmicpc.net/user/taerim0"><img src="https://img.shields.io/badge/Baekjoon-taerim0-0099FF"></a><br>
         <a href="https://hits.seeyoufarm.com">
-          <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaerim0&count_bg=%23B9B9B9&title_bg=%23DE245B&icon=ko-fi.svg&icon_color=%23FFFFFF&title=hey%21&edge_flat=true"/>   
-        </a> 
+          <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaerim0&count_bg=%23B2B2B2&title_bg=%23DD106B&icon=ghostery.svg&icon_color=%23FFFFFF&title=hey%21&edge_flat=true"/>
+        </a>
       </td>
       <td>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
