@@ -1,8 +1,10 @@
-## Rim
+## ✨ Rim
 
 ⚒️ Cloud, Web
 
 🏫 Ajou University, department of software and computer engineering
+
+🪖 ROKAF 2024.09.09 ~ 2026.06.08.
 
 <div>
   <table>
