@@ -2,9 +2,9 @@
 
 ⚒️ Cloud, Web
 
-🏫 Ajou University, department of software and computer engineering
+🏫 Ajou University, department of software and computer engineering 2024.03.02 ~
 
-🪖 ROKAF 2024.09.09 ~ 2026.06.08.
+🪖 ROKAF 2024.09.09 ~ 2026.06.08
 
 👶 코딩 뉴비 ; 여러가지 해보는 중
 
