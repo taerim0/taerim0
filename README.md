@@ -9,6 +9,11 @@
 👶 코딩 뉴비 ; 여러가지 해보는 중
 
 <div>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaerim0&count_bg=%23B9B9B9&title_bg=%23DE245B&icon=ko-fi.svg&icon_color=%23FFFFFF&title=hey%21&edge_flat=true"/>   
+  </a>
+</div>
+<div>
   <table>
     <tr>
       <td>
