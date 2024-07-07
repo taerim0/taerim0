@@ -1,19 +1,20 @@
 ## Rim
 
+⚒️ Cloud, Web
+
 🏫 Ajou University, department of software and computer engineering
 
-<br>
-
 <div>
-
-  <a href="https://github.com/taerim0"><img style="width:130px" src="https://github.com/taerim0/taerim0/assets/127942413/dfdee418-5f16-459a-88ea-a972dd79bcde" /></a> 
-  <a href="https://github.com/taerim0"><img style="width:300px" src="https://github-readme-stats.vercel.app/api?username=taerim0&show_icons=true&theme=onedark&hide_border=false" /></a>
-
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/taerim0"><img style="width:100px" src="https://github.com/taerim0/taerim0/assets/127942413/dfdee418-5f16-459a-88ea-a972dd79bcde" /></a>
+      </td>
+      <td>
+        <a href="https://velog.io/@taerim0"><img src="https://img.shields.io/badge/taerim0%20Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@taerim0"/></a><br>
+        <a href="https://www.acmicpc.net/user/taerim0"><img src="https://img.shields.io/badge/BOJ-taerim0-0099FF"></a>
+      </td>
+    </tr>
+  </table>
+  <a href="https://solved.ac/profile/taerim0"><img style="" src="https://solvedac-cards-starcea.paring.moe/profile/taerim0"/></a>
 </div>
-<div>
-  
-  <a href="https://solved.ac/profile/taerim0"><img style="width:430px" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=taerim0"/></a>
-
-</div>
-
-<br>
