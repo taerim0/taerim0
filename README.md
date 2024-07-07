@@ -12,19 +12,19 @@
   
 </div>
 <div>
-  <table>
+  <table border="1">
     <tr>
-      <td>
+      <td style="width:25%;">
         <a href="https://github.com/taerim0"><img style="width:100px" src="https://github.com/taerim0/taerim0/assets/127942413/dfdee418-5f16-459a-88ea-a972dd79bcde" /></a>
       </td>
-      <td>
+      <td style="width:25%;">
         <a href="https://velog.io/@taerim0"><img src="https://img.shields.io/badge/taerim0%20Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@taerim0"/></a><br>
         <a href="https://www.acmicpc.net/user/taerim0"><img src="https://img.shields.io/badge/Baekjoon-taerim0-0099FF"></a><br>
         <a href="https://hits.seeyoufarm.com">
           <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaerim0&count_bg=%23B2B2B2&title_bg=%23DD106B&icon=ghostery.svg&icon_color=%23FFFFFF&title=hey%21&edge_flat=true"/>
         </a>
       </td>
-      <td>
+      <td style="width:50%;">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
         <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=CMake&logoColor=white"/>
