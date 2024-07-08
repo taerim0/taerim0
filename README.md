@@ -6,7 +6,7 @@
 
 🪖 ROKAF 2024.09.09 ~ 2026.06.08
 
-👶 coding noob
+👶 growing developer
 
 <div>
   
