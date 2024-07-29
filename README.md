@@ -1,6 +1,6 @@
 ## ✨ Rim
 
-⚒️ Cloud, Web
+⚒️ 
 
 🏫 Ajou University, department of software and computer engineering 2024.03.02 ~
 
