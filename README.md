@@ -61,6 +61,7 @@
     <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/>
     <img src="https://img.shields.io/badge/MonoGame-E73C00?style=flat-square&logo=monogame&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=GodotEngine&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
